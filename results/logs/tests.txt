@@ -1,0 +1,22 @@
+test_censored (test_labeling.LabelTests.test_censored) ... ok
+test_threshold_and_cap (test_labeling.LabelTests.test_threshold_and_cap) ... ok
+test_unordered (test_labeling.LabelTests.test_unordered) ... ok
+test_constant (test_metrics.MetricsTests.test_constant) ... ok
+test_exact (test_metrics.MetricsTests.test_exact) ... ok
+test_late_penalty (test_metrics.MetricsTests.test_late_penalty) ... ok
+test_mismatch (test_metrics.MetricsTests.test_mismatch) ... ok
+test_conv_causality (test_models.ModelTests.test_conv_causality) ... ok
+test_mc_does_not_update_batchnorm (test_models.ModelTests.test_mc_does_not_update_batchnorm) ... ok
+test_saved_models_reproduce_predictions (test_models.ModelTests.test_saved_models_reproduce_predictions) ... ok
+test_shapes_and_baseline_temporal_input (test_models.ModelTests.test_shapes_and_baseline_temporal_input) ... ok
+test_cutoff_and_duplicate_timestamps (test_phm.PHMTests.test_cutoff_and_duplicate_timestamps) ... ok
+test_real_cmapss_disjoint_units_and_validation_range (test_pipeline.PipelineTests.test_real_cmapss_disjoint_units_and_validation_range) ... ok
+test_real_phm_no_fabricated_labels (test_pipeline.PipelineTests.test_real_phm_no_fabricated_labels) ... ok
+test_causality_and_restore (test_preprocessing.PreprocessTests.test_causality_and_restore) ... ok
+test_no_future_scaling (test_preprocessing.PreprocessTests.test_no_future_scaling) ... ok
+test_window_alignment (test_preprocessing.PreprocessTests.test_window_alignment) ... ok
+
+----------------------------------------------------------------------
+Ran 17 tests in 3.641s
+
+OK

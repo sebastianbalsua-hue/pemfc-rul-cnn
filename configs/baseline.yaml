@@ -1,0 +1,4 @@
+model: cnn_lstm
+filters: [32, 64]
+lstm_units: 64
+flatten_before_lstm: false

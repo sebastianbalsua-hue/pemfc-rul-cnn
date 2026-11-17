@@ -1,0 +1,21 @@
+{
+  "source": "ChemRxiv 11902023 v1, table (1-2), PDF page 5",
+  "relative_humidity_percent": 50,
+  "membrane_compression_percent": 5,
+  "role": "characterization_only_not_RUL",
+  "parquet_status": "not_read_missing_local_engine",
+  "observations": [
+    {
+      "nafion_percent": 20,
+      "MPD_at_5_psig": 304.0,
+      "MPD_at_25_psig": 490.0,
+      "relative_increase_percent": 61.184210526315795
+    },
+    {
+      "nafion_percent": 25,
+      "MPD_at_5_psig": 291.0,
+      "MPD_at_25_psig": 376.0,
+      "relative_increase_percent": 29.209621993127154
+    }
+  ]
+}

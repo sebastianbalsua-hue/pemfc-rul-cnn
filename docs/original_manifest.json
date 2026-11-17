@@ -1,0 +1,377 @@
+[
+  {
+    "path": "LICENSE",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "Makefile",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "README.md",
+    "sha256": "efb07d4735ebd2d5e43c98479ede667964987d50a2312419196899b8f62bbf53",
+    "copy_matches": true
+  },
+  {
+    "path": "requirements.txt",
+    "sha256": "2ec63470fee62ce33fdbff9295b4a91d835c41b443f093777e78a7b942ef846b",
+    "copy_matches": true
+  },
+  {
+    "path": "setup.py",
+    "sha256": "3b7366f17196edbd0a57b460332494d052d4dca04af8a0dccf5400cea4dd483e",
+    "copy_matches": true
+  },
+  {
+    "path": "configs/cmapss.yaml",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "configs/colab.yaml",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "configs/phm2014.yaml",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "configs/transfer.yaml",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "docs/colab_workflow.md",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "docs/proyecto.md",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "notebooks/00_colab_setup.ipynb",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "notebooks/01_eda_phm2014.ipynb",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "notebooks/02_eda_cmapss.ipynb",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "notebooks/03_eda_ecsim.ipynb",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "notebooks/04_resultados.ipynb",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "scripts/download_data.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "scripts/download_data.sh",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "scripts/preprocess_all.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "scripts/run_experiments.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "scripts/setup_colab.sh",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "scripts/train_cmapss.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "scripts/train_phm2014.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "src/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "tests/test_labeling.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "tests/test_metrics.py",
+    "sha256": "7196dfc80ca2a5cc914276a72b5efa9a2a272ba1dc00b3c2786cc208c7cef9bb",
+    "copy_matches": true
+  },
+  {
+    "path": "tests/test_models.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "tests/test_preprocessing.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": ".github/workflows/ci.yml",
+    "sha256": "9ca274d16c233bd41d574fc654a41136b060916c85703673a9746c664000759b",
+    "copy_matches": true
+  },
+  {
+    "path": "data/interim/.gitkeep",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "data/processed/.gitkeep",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "data/raw/c_mapss/README.md",
+    "sha256": "4765090e0feaeac84a8fff5dce64e50e6d56bf84afb48a98c8fd7dce0b0bd8fa",
+    "copy_matches": true
+  },
+  {
+    "path": "data/raw/ecsim/ecsim_data.parquet",
+    "sha256": "d87aa8bcfa8cfd13448acfa596522d77cbc8aa24ab9530875f5b6418c3e3bba1",
+    "copy_matches": true
+  },
+  {
+    "path": "data/raw/ecsim/README.md",
+    "sha256": "db03ed40aca247c72327d680c3f04b9d852db533c0024ed220453bfa74bb9965",
+    "copy_matches": true
+  },
+  {
+    "path": "data/raw/ieee_phm2014/FC1_Ageing.csv",
+    "sha256": "3e7c7a4c011cbb5a902b01796a7fb1ed8f11fbfc389bfba5b0e89077d194ef39",
+    "copy_matches": true
+  },
+  {
+    "path": "data/raw/ieee_phm2014/FC2_Ageing.csv",
+    "sha256": "5bdcc6c66ad2a2aa6bd86a6e41b3b5ab275596aeebb4151f7714645d636a0499",
+    "copy_matches": true
+  },
+  {
+    "path": "data/raw/ieee_phm2014/README.md",
+    "sha256": "277876e38ed6dc7b1778dee135f7e4c9f39b35c48e23b2953a01d47593ca7cd5",
+    "copy_matches": true
+  },
+  {
+    "path": "data/raw/c_mapss/CMAPSSData/Damage Propagation Modeling.pdf",
+    "sha256": "e7aaef80c177333f400a4c1099fe76e67d244569b9397c937ec4cd3ed5b44a27",
+    "copy_matches": true
+  },
+  {
+    "path": "data/raw/c_mapss/CMAPSSData/readme.txt",
+    "sha256": "4f5270554b775c67e73aff383c5436fd329d6e4cc3d3a116913276fae511269b",
+    "copy_matches": true
+  },
+  {
+    "path": "data/raw/c_mapss/CMAPSSData/RUL_FD001.txt",
+    "sha256": "a19c8ec94931949d0485bdc35118206e9c81c4547b422efb9cf86f4ceddbceca",
+    "copy_matches": true
+  },
+  {
+    "path": "data/raw/c_mapss/CMAPSSData/RUL_FD002.txt",
+    "sha256": "c851dd96a6ea6998d3c4a8f834d3c8013aa90e93a6ed950dc826ad0655b2906b",
+    "copy_matches": true
+  },
+  {
+    "path": "data/raw/c_mapss/CMAPSSData/RUL_FD003.txt",
+    "sha256": "df1e0566306b174a2de41c67a3e7a51877889598b78643fc3e5685259091b7cb",
+    "copy_matches": true
+  },
+  {
+    "path": "data/raw/c_mapss/CMAPSSData/RUL_FD004.txt",
+    "sha256": "196b836b85a95ac7fdbbf29c5fdf1657382eafa445644d114ffaaf50dc2975e1",
+    "copy_matches": true
+  },
+  {
+    "path": "data/raw/c_mapss/CMAPSSData/test_FD001.txt",
+    "sha256": "3cda7109ce17bafb5443f2ac926cfcf88154b941b8c4cf95eb55d1ddd6f52851",
+    "copy_matches": true
+  },
+  {
+    "path": "data/raw/c_mapss/CMAPSSData/test_FD002.txt",
+    "sha256": "de7b5bf7e998a985c378488480528b7c02cff1406a46740def362dda8d9b4e02",
+    "copy_matches": true
+  },
+  {
+    "path": "data/raw/c_mapss/CMAPSSData/test_FD003.txt",
+    "sha256": "299babd63c8d987cef079c4a425429f33b3a34797d803bbe2ad48c29dbd0d790",
+    "copy_matches": true
+  },
+  {
+    "path": "data/raw/c_mapss/CMAPSSData/test_FD004.txt",
+    "sha256": "1dc675fff0624bac10786927c6715b37d1297657137400d2b1a3138d777a3ba5",
+    "copy_matches": true
+  },
+  {
+    "path": "data/raw/c_mapss/CMAPSSData/train_FD001.txt",
+    "sha256": "963b5e22825b34d8b21c69e1aeb4af3e647050eb672ee8834ba4b5d91d2de0f8",
+    "copy_matches": true
+  },
+  {
+    "path": "data/raw/c_mapss/CMAPSSData/train_FD002.txt",
+    "sha256": "dac6c4dbc4e7c1bdeb5747da3d313d05c395bb99801b44a002b26a2ba13d788f",
+    "copy_matches": true
+  },
+  {
+    "path": "data/raw/c_mapss/CMAPSSData/train_FD003.txt",
+    "sha256": "2abbe9968cc5e8eb091980f51b20f62bb4127336d3482cb52071d53bf23329e2",
+    "copy_matches": true
+  },
+  {
+    "path": "data/raw/c_mapss/CMAPSSData/train_FD004.txt",
+    "sha256": "27ef6160b6a1dcb2613a88de9c239f763b223f02cdc41dc5cdedc5dc189b6218",
+    "copy_matches": true
+  },
+  {
+    "path": "docs/figuras/.gitkeep",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "results/figures/.gitkeep",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "results/logs/.gitkeep",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "results/tables/.gitkeep",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "src/data/labeling.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "src/data/load_cmapss.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "src/data/load_ecsim.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "src/data/load_phm2014.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "src/data/preprocessing.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "src/data/windowing.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "src/data/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "src/models/cnn_causal_dilated.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "src/models/cnn_lstm_baseline.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "src/models/lstm_baseline.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "src/models/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "src/training/callbacks.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "src/training/evaluate.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "src/training/train.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "src/training/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "src/utils/metrics.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "src/utils/paths.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "src/utils/plotting.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "src/utils/seeding.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  },
+  {
+    "path": "src/utils/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "copy_matches": true
+  }
+]

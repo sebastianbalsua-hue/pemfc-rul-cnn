@@ -1,0 +1,39 @@
+{
+  "dataset": "phm2014",
+  "units": "hours",
+  "fc1_rows": 143847,
+  "fc2_rows": 127350,
+  "fc1_max_hours": 1154.213356,
+  "fc2_max_hours": 1020.536306,
+  "fc1_raw_min_voltage": 3.093,
+  "fc1_event": {
+    "initial_voltage": 3.317,
+    "threshold": 2.9853,
+    "ratio": 0.9,
+    "failure_time": null,
+    "censored": true,
+    "last_observed_time": 1155.0
+  },
+  "fc2_input_cutoff": 550,
+  "fc2_input_max_hours": 550.0,
+  "label_policy": "No observed crossing => censored, no exact RUL labels",
+  "status": "blocked_censored_fc1",
+  "config": {
+    "dataset": "phm2014",
+    "raw": "data/raw/ieee_phm2014",
+    "window": 30,
+    "median": 5,
+    "correlation": 0.1,
+    "scaling": "zscore",
+    "rul_cap": 125,
+    "failure_ratio": 0.9,
+    "forecast_cutoff_hours": 550,
+    "validation_fraction": 0.2,
+    "seed": 42,
+    "epochs": 100,
+    "batch_size": 32,
+    "optimizer": "adam",
+    "learning_rate": 0.001,
+    "patience": 10
+  }
+}

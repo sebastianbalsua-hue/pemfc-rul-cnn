@@ -1,0 +1,16 @@
+dataset: phm2014
+raw: data/raw/ieee_phm2014
+window: 30
+median: 5
+correlation: 0.1
+scaling: zscore
+rul_cap: 125
+failure_ratio: 0.90
+forecast_cutoff_hours: 550
+validation_fraction: 0.2
+seed: 42
+epochs: 100
+batch_size: 32
+optimizer: adam
+learning_rate: 0.001
+patience: 10

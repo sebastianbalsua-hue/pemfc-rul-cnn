@@ -1,0 +1,30 @@
+{
+  "rmse": 20.87261915085458,
+  "mae": 16.239481513953418,
+  "r2": 0.7287035012436447,
+  "nasa_score": 1102.7014317073247,
+  "n": 100,
+  "parameters": 15,
+  "validation": {
+    "rmse": 21.5490855286787,
+    "mae": 17.545092923735293,
+    "r2": 0.7291177783295251,
+    "nasa_score": 31633.182392548322,
+    "n": 3272
+  },
+  "uncapped_test": {
+    "rmse": 21.857618251034015,
+    "mae": 17.21169714901874,
+    "r2": 0.7233401551524589,
+    "nasa_score": 1165.3266713128148,
+    "n": 100
+  },
+  "elapsed_seconds": 0.006744799999978568,
+  "model": "linear",
+  "epochs_requested": 0,
+  "epochs_completed": 0,
+  "units": "cycles",
+  "python": "3.12.10",
+  "protocol": "Held-out engines; all validation windows; last test window per engine",
+  "status": "baseline_or_training_run"
+}

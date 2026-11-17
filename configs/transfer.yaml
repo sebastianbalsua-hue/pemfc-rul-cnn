@@ -1,0 +1,5 @@
+mode: architecture_and_protocol
+source: cmapss
+target: phm2014
+transfer_weights: false
+ecsim_role: characterization_only

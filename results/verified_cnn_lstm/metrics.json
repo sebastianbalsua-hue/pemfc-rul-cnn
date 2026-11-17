@@ -1,0 +1,33 @@
+{
+  "rmse": 15.075859709129983,
+  "mae": 11.625058183670044,
+  "r2": 0.8584680579379254,
+  "nasa_score": 429.38212748977435,
+  "n": 100,
+  "parameters": 42721,
+  "trainable_parameters": 42721,
+  "latency_ms": 22.812570000011572,
+  "tensorflow_version": "2.21.0",
+  "validation": {
+    "rmse": 14.631856530915352,
+    "mae": 10.184621414083141,
+    "r2": 0.8751117209290488,
+    "nasa_score": 17386.054143374073,
+    "n": 3272
+  },
+  "uncapped_test": {
+    "rmse": 16.145199124905375,
+    "mae": 12.642482347488404,
+    "r2": 0.8490520333539687,
+    "nasa_score": 463.83588126104536,
+    "n": 100
+  },
+  "elapsed_seconds": 62.47917360000065,
+  "model": "cnn_lstm",
+  "epochs_requested": 100,
+  "epochs_completed": 20,
+  "units": "cycles",
+  "python": "3.12.10",
+  "protocol": "Held-out engines; all validation windows; last test window per engine",
+  "status": "baseline_or_training_run"
+}

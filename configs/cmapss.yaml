@@ -1,0 +1,15 @@
+dataset: cmapss
+subset: FD001
+raw: data/raw/c_mapss/CMAPSSData
+window: 30
+median: 5
+correlation: 0.2
+scaling: zscore
+rul_cap: 125
+validation_fraction: 0.2
+seed: 42
+epochs: 100
+batch_size: 32
+optimizer: adam
+learning_rate: 0.001
+patience: 10

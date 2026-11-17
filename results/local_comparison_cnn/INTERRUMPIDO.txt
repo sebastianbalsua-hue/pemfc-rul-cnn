@@ -1,0 +1,1 @@
+Corrida inicial detenida antes de guardar resultados. Sustituida por verified_cnn; validacion debe cubrir multiples puntos de vida por motor.

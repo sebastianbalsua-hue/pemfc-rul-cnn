@@ -5,7 +5,7 @@ Modelo principal: **CNN 1D causal-dilatada**. Comparativa: **CNN-LSTM**, conserv
 
 ## Ejecucion
 
-Desde esta carpeta, usar un Python con NumPy, pandas y PyYAML; TensorFlow se requiere para redes neuronales. El entorno local disponible es `C:/Users/sebas/Formacion_uis/deep_learning/.venv/Scripts/python.exe`.
+Desde esta carpeta, usar un Python con NumPy, pandas y PyYAML; TensorFlow se requiere para redes neuronales. 
 
 ```powershell
 $py = 'C:/Users/sebas/Formacion_uis/deep_learning/.venv/Scripts/python.exe'

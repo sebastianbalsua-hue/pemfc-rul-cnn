@@ -2,7 +2,6 @@
 
 Modelo principal: **CNN 1D causal-dilatada**. Comparativa: **CNN-LSTM**, conservando la dimension temporal antes de LSTM. Implementacion basada exclusivamente en los documentos y datos locales suministrados.
 
-No se ha publicado nada en GitHub. El proyecto original `pemfc-rul-cnn` se mantiene intacto. Esta copia incluye los datos locales y omite `.gitignore`.
 
 ## Ejecucion
 
